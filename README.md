@@ -1,2 +1,3 @@
 # github-test
-Learning the ins and outs of github
+
+Getting used to GitHub by making a simple python calculator
